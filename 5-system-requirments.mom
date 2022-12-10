@@ -35,6 +35,14 @@ The system shall prevent duplicate requests.
 .HEADING 2 "Non-Functional Requirements"
 .LIST DIGIT
 .ITEM
+The system shall not allow those of no authorization to modify the system architecture.
+.ITEM
+The system should exhibit satisfactory speed when displaying a customer's search results.
+.ITEM
+The system should keep the credentials of the customer safe and secure.
+.ITEM
+The system should be able to display in stock books of multiple languages.
+.ITEM
 The amount by which a book is considered low in stock should be configurable.
 .ITEM
 Marking a book as unavailable will inhibite the book from appearing in the library's public catalog.
