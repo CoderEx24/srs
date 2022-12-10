@@ -1,0 +1,12 @@
+.HEADING 1 "User Requirments"
+.PP
+.LIST BULLET
+.ITEM
+The system will allow librarians manage the books of the library.
+.ITEM
+The system will allow librarians manage book borrowings and returns and their fees.
+.ITEM
+The system will allow the customers to search the library catalog.
+.ITEM
+The system will allow the customers to keep a wishlist.
+.LIST OFF
