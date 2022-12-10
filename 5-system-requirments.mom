@@ -1,4 +1,5 @@
 .HEADING 1 "System Requirements"
+.HEADING 2 "Functional Requirements"
 .LIST DIGIT
 .ITEM
 The system shall allow the librarians add new books into the system's database.
@@ -9,36 +10,43 @@ The system shall also keep track of the book stock available.
 The system shall allow the librarians to keep track of the books in stock and their quantities.
 .ITEM
 The system shall issue warnings about books that are low in stock.
-The amount by which a book is considered low in stock should be configruable.
 .ITEM
 The system shall allow the librarians to arbitrarily mark a book 'unavailable'.
-This marking will inhibite the book from appearing in the library's public catalog.
-Also, the system should automatically mark any out-of-stock book as 'unavailable'.
 .ITEM
-The system shall allow the librarians to keep track of book borrowings.
-The system shall keep a database of book borrowings, the details of book borrowings are
+The system shall allow the librarians to keep track of book rentals.
+The system shall keep a database of book rentals, the details of book rentals are
 the book borrowed, the user borrowing the book, date of borrowing and date of return.
+.ITEM
+The system shall generate a daily list of expected books to be returned to the librarian.
+.ITEM
+The system shall automatically apply a penalty to a customer who is late to return
+a borrowed book.
+The specifics of the penalty depends on the library policy.
+.ITEM
+The system shall allow the customers of the library to search the catalog of the library
+using any of the data points mentioned in 1.
+.ITEM
+The system shall allow the customers to keep a list of books that they wish to read (the wishlist).
+The wishlist shall be stored with the customer's account info.
+.ITEM
+The system shall allow the customers to request books.
+The system shall prevent duplicate requests.
+.LIST OFF
+.HEADING 2 "Non-Functional Requirements"
+.LIST DIGIT
+.ITEM
+The amount by which a book is considered low in stock should be configurable.
+.ITEM
+Marking a book as unavailable will inhibite the book from appearing in the library's public catalog.
+Also, the system should automatically mark any out-of-stock book as 'unavailable'.
 .ITEM
 If the customer chooses so, the system shall send automatic reminders to the customer,
 Reminding him to return any borrowed books before the date of return.
 The time between the reminder and the date of return should be sufficient.
 The system may allow the customer to customize how these reminders are sent.
 .ITEM
-The system shall generate a daily list of expected books to be returned to the librarian.
+Browsing the catalog function should not require prior authentication nor authorization.
 .ITEM
-The system shall automatically apply a penalty to a customer who is late to return
-a borrowed book.
-The specifics of the penalty depends of the library policy.
-.ITEM
-The system shall allow the customers of the library to search the catalog of the library
-using any of the data points mentioned in 1.
-This function should not require prior authentication nor authorisation.
-.ITEM
-The system shall allow the customers to keep a list of books that they wish to read (the wishlist).
-The wishlist shall be stored with the customer's account info.
 The system may allow sharing and publication of a customer's wishlist within the system
 so that other customers may view or copy it.
-.ITEM
-The system shall allow the customers to request books.
-The system shall prevent duplicate requests.
 .LIST OFF
