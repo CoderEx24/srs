@@ -1,0 +1,5 @@
+.HEADING 1 "Introduction"
+.PP
+The library managment system is a software system that facilitates the daily operation of a library.
+The system will help librarians manage bookshelfs, borrowing and stock.
+It will also help customers with book searching and borrowing.
