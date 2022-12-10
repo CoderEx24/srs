@@ -1,0 +1,18 @@
+.HEADING 1 "System Architecture"
+The library system is a repository system.
+The library system consists of three parts.
+.LIST DIGIT
+.ITEM
+A master server, that holds all the data of library system.
+This includes the book database, the borrowings database, 
+the users database and the librarians database.
+The master server will serve a number of frontends located inside the library.
+The master server will handle authentication.
+.ITEM
+A librarian frontend, that allows the librarians to manage the library.
+This frontend will allow the librarians to perform all of their administrative tasks.
+This includes managing the databases and record borrowings 
+.ITEM
+A customer frontend. This frontend will allow the customers to search for books,
+manage wishlists, and request books
+.LIST OFF
