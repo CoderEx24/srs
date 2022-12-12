@@ -1,95 +1,23 @@
+
 .HEADING 1 "System Models"
 .AUTOLABEL_IMAGES
-.FLOAT
-.PDF_IMAGE "diagrams/general-activity-diagram.pdf" 641p 941p SCALE 60
-.FLOAT OFF
-.PP
-.QUAD C
-.PP_FONT B
-General Activity Diagram
+.CAPTION_AFTER_LABEL IMG
+.PDF_IMAGE "diagrams/general-activity-diagram.pdf" 641p 941p SCALE 50 CAPTION "General Activity Diagram"
 .NEWPAGE
-.FLOAT
-.PDF_IMAGE "diagrams/librarian-use-case.pdf" 494p 356p SCALE 60 
-.FLOAT OFF
-.PP
-.QUAD C
-.PP_FONT B
-Librarian Use Case
-.FLOAT
-.PDF_IMAGE "diagrams/customer-use-case.pdf" 636p 505p SCALE 60
-.FLOAT OFF
-.PP
-.QUAD C
-.PP_FONT B
-Customer Use Case
+.PDF_IMAGE "diagrams/librarian-use-case.pdf" 494p 356p SCALE 50 CAPTION "Librarian Use Case"
+.PDF_IMAGE "diagrams/customer-use-case.pdf" 636p 505p SCALE 50 CAPTION "Customer User Case"
 .NEWPAGE
-.FLOAT
-.PDF_IMAGE "diagrams/customer-activity-diagram.pdf" 641p 941p SCALE 60
-.FLOAT OFF
-.PP
-.QUAD C
-.PP_FONT B
-Customer Activity Diagram
+.PDF_IMAGE "diagrams/customer-activity-diagram.pdf" 641p 941p SCALE 50 CAPTION "Customer Activity Diagram"
 .NEWPAGE
-.FLOAT
-.PDF_IMAGE "diagrams/add-book.pdf" 714p 561p SCALE 50
-.FLOAT OFF
-.PP
-.QUAD C
-.PP_FONT B
-Add Book Activity Diagram
-.FLOAT
-.PDF_IMAGE "diagrams/book-borrowing.pdf" 954p 570p SCALE 50
-.PP
-.QUAD C
-.PP_FONT B
-Book Borrowing Activity Diagram
-.FLOAT OFF
+.PDF_IMAGE "diagrams/add-book.pdf" 714p 561p SCALE 50 CAPTION "Add Book Activity Diagram"
+.PDF_IMAGE "diagrams/book-borrowing.pdf" 954p 570p SCALE 49 CAPTION "Book Borrowing Activity Diagram"
 .NEWPAGE
-.FLOAT
-.PDF_IMAGE "diagrams/book-return.pdf" 794p 570p SCALE 50
-.PP
-.QUAD C
-.PP_FONT B
-Book Return Activity Diagram
-.FLOAT OFF
+.PDF_IMAGE "diagrams/book-return.pdf" 794p 570p SCALE 50 CAPTION "Book Return Activity Diagram"
+.PDF_IMAGE "diagrams/make-wishlist.pdf" 706p 802p SCALE 50 CAPTION "Make Wishlist Activity Diagram"
 .NEWPAGE
-.FLOAT
-.PDF_IMAGE "diagrams/make-wishlist.pdf" 706p 802p SCALE 50
-.PP
-.PP_FONT B
-.QUAD C
-Make Wishlist Activity Diagram
-.FLOAT OFF
+.PDF_IMAGE "diagrams/share-wishlist.pdf" 482p 362p SCALE 50 CAPTION "Share Wishlist Activity Diagram"
 .NEWPAGE
-.FLOAT
-.PDF_IMAGE "diagrams/share-wishlist.pdf" 482p 362p SCALE 50
-.PP
-.QUAD C
-.PP_FONT B
-Share Wishlist Activity Diagram
-.FLOAT OFF
-.FLOAT
-.PDF_IMAGE "diagrams/search-catalog.pdf" 882p 410p SCALE 50
-.PP
-.QUAD C
-.PP_FONT B
-Search Catalog Activity Diagram
-.FLOAT OFF
-.FLOAT
-.PDF_IMAGE "diagrams/mark-unavailable.pdf" 561p 581p SCALE 80
-.PP
-.QUAD C
-.PP_FONT B
-Mark Unavailable Activity Diagram
-.FLOAT OFF
-.FLOAT
-.PDF_IMAGE "diagrams/punish-user.pdf" 581p 581p SCALE 75
-.PP
-.QUAD C
-.PP_FONT B
-Punish User Activity Diagram
-.FLOAT OFF
-.NEWPAGE
-.TOC
+.PDF_IMAGE "diagrams/search-catalog.pdf" 882p 410p SCALE 50 CAPTION "Search Catalog Activity Diagram"
+.PDF_IMAGE "diagrams/punish-user.pdf" 581p 581p SCALE 50 CAPTION "Punish User Activity Diagram"
+.PDF_IMAGE "diagrams/mark-unavailable.pdf" 561p 581p SCALE 80 CAPTION "Mark Unavailable Activity Diagram"
 
