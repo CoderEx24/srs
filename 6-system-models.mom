@@ -39,19 +39,20 @@ Customer Activity Diagram
 Add Book Activity Diagram
 .FLOAT
 .PDF_IMAGE "diagrams/book-borrowing.pdf" 954p 570p SCALE 50
-.FLOAT OFF
 .PP
 .QUAD C
 .PP_FONT B
 Book Borrowing Activity Diagram
+.FLOAT OFF
 .NEWPAGE
 .FLOAT
 .PDF_IMAGE "diagrams/book-return.pdf" 794p 570p SCALE 50
-.FLOAT OFF
 .PP
 .QUAD C
 .PP_FONT B
 Book Return Activity Diagram
+.FLOAT OFF
+.NEWPAGE
 .FLOAT
 .PDF_IMAGE "diagrams/make-wishlist.pdf" 706p 802p SCALE 50
 .PP
@@ -67,7 +68,6 @@ Make Wishlist Activity Diagram
 .PP_FONT B
 Share Wishlist Activity Diagram
 .FLOAT OFF
-.NEWPAGE
 .FLOAT
 .PDF_IMAGE "diagrams/search-catalog.pdf" 882p 410p SCALE 50
 .PP
@@ -75,29 +75,20 @@ Share Wishlist Activity Diagram
 .PP_FONT B
 Search Catalog Activity Diagram
 .FLOAT OFF
-.NEWPAGE
 .FLOAT
 .PDF_IMAGE "diagrams/mark-unavailable.pdf" 561p 581p SCALE 80
-.FLOAT OFF
 .PP
 .QUAD C
 .PP_FONT B
 Mark Unavailable Activity Diagram
-.NEWPAGE
+.FLOAT OFF
 .FLOAT
 .PDF_IMAGE "diagrams/punish-user.pdf" 581p 581p SCALE 75
-.FLOAT OFF
 .PP
 .QUAD C
 .PP_FONT B
 Punish User Activity Diagram
-.NEWPAGE
-.FLOAT
-.PDF_IMAGE "diagrams/class-diagram.pdf" 901p 993p SCALE 50
 .FLOAT OFF
-.PP
-.QUAD C
-.PP_FONT B
-Class Diagram
+.NEWPAGE
 .TOC
 
