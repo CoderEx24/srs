@@ -1,4 +1,5 @@
 .HEADING 1 "System Models"
+.AUTOLABEL_IMAGES
 .FLOAT
 .PDF_IMAGE "diagrams/general-activity-diagram.pdf" 641p 941p SCALE 60
 .FLOAT OFF
