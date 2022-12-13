@@ -1,0 +1,35 @@
+.HEADING 1 "Glossary"
+.LIST DASH 
+.ITEM
+Librarian
+.BLOCKQUOTE
+A librarian is a person working in a library.
+They manage the library and handle book rental and returns.
+.BLOCKQUOTE END
+.ITEM
+Server
+.BLOCKQUOTE
+A Server is a program that resides on a computer in order to serve other computers.
+Other programs connect to the Server in order to get or post information.
+.BLOCKQUOTE END
+.ITEM
+Repository System
+.BLOCKQUOTE
+A software system that is divided consists of a repository and a number of other programs.
+The repository acts as the center of the system.
+The other programs communicate with the repository in order to preform tasks.
+All the information in the system are stored in the repository.
+.BLOCKQUOTE END
+.ITEM
+Authentication
+.BLOCKQUOTE
+Proof of the identity of the user attempting logging in.
+.BLOCKQUOTE END
+.ITEM
+Authorisation
+.BLOCKQUOTE
+Giving a user the permission to access a resource or to preform an action.
+.BLOCKQUOTE END
+.NEWPAGE
+.LIST OFF
+
