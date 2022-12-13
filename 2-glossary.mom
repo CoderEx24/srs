@@ -14,7 +14,7 @@ Other programs connect to the Server in order to get or post information.
 .BLOCKQUOTE END
 .ITEM
 Repository System
-.BLOCKQUOTE
+.BLOCKQUOTE 
 A software system that is divided consists of a repository and a number of other programs.
 The repository acts as the center of the system.
 The other programs communicate with the repository in order to preform tasks.
@@ -29,6 +29,16 @@ Proof of the identity of the user attempting logging in.
 Authorisation
 .BLOCKQUOTE
 Giving a user the permission to access a resource or to preform an action.
+.BLOCKQUOTE END
+.ITEM
+Wishlist
+.BLOCKQUOTE
+A list of books a customer can keep.
+.BLOCKQUOTE END
+.ITEM
+Library Catalog
+.BLOCKQUOTE
+The list of books available at the library.
 .BLOCKQUOTE END
 .NEWPAGE
 .LIST OFF
