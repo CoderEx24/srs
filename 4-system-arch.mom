@@ -1,4 +1,6 @@
 .HEADING 1 "System Architecture"
+.PDF_IMAGE "diagrams/arch.pdf" 192p 192p SCALE 190 CAPTION "System Architecture"
+.PP
 The library system is a repository system.
 The library system consists of three parts:
 .LIST DIGIT
