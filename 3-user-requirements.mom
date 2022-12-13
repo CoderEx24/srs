@@ -1,5 +1,4 @@
 .HEADING 1 "User Requirements"
-.PP
 .LIST BULLET
 .ITEM
 The system will allow librarians manage the books of the library.
