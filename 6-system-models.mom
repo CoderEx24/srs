@@ -1,6 +1,4 @@
 .HEADING 1 "System Models"
-.AUTOLABEL_IMAGES
-.CAPTION_AFTER_LABEL IMG
 .PDF_IMAGE "diagrams/general-activity-diagram.pdf" 641p 941p SCALE 50 CAPTION "General Activity Diagram"
 .NEWPAGE
 .PDF_IMAGE "diagrams/librarian-use-case.pdf" 494p 356p SCALE 50 CAPTION "Librarian Use Case"
