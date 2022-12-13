@@ -1,4 +1,3 @@
-
 .HEADING 1 "System Models"
 .AUTOLABEL_IMAGES
 .CAPTION_AFTER_LABEL IMG
@@ -19,5 +18,7 @@
 .NEWPAGE
 .PDF_IMAGE "diagrams/search-catalog.pdf" 882p 410p SCALE 50 CAPTION "Search Catalog Activity Diagram"
 .PDF_IMAGE "diagrams/punish-user.pdf" 581p 581p SCALE 50 CAPTION "Punish User Activity Diagram"
-.PDF_IMAGE "diagrams/mark-unavailable.pdf" 561p 581p SCALE 80 CAPTION "Mark Unavailable Activity Diagram"
+.NEWPAGE
+.PDF_IMAGE "diagrams/mark-unavailable.pdf" 561p 581p SCALE 80 CAPTION "Mark Unavailable Activity Diagram" 
+.PDF_IMAGE "diagrams/class-diagram.pdf" 635p 700p SCALE 70 CAPTION "Class Diagram"
 
